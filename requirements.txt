@@ -1,0 +1,23 @@
+# Core AutoML frameworks
+autogluon>=1.5.0
+lightautoml>=0.6.0
+lightgbm>=4.0.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+pyarrow>=10.0.0
+
+# Machine learning utilities
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter environment (optional, for running notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional dependencies for LightAutoML (if needed)
+# torch>=1.13.0  # uncomment if using neural network models in LightAutoML
